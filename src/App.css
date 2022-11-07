@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+  padding: 121.5px;
+  background-color: rgb(28, 155, 52);
+}
+
+.login-page {
+  background-color: white;
+  max-width: 500px;
+  margin: 0 auto 100px;
+  padding: 35px;
+}
+
+.login-page input {
+  padding: auto;
+  width: 100%;
+  padding: 15px;
+  border: 0;
+  box-sizing: border-box;
+  font-size: 14px;
+  background-color: rgb(208, 208, 208);
+}
+
+.login-page button {
+  width: 100%;
+  background-color: rgb(28, 155, 52);
+  border: none;
+  color: white;
+  font-size: 14px;
+  border-radius: 3px;
+  padding: 15px 30px;
+}
+
+.login-page button:hover {
+  background-color: rgb(19, 134, 40);
+}
+
+.login-page a {
+  color: rgb(28, 155, 52);
+}
+
+.home {
+  text-align: center;
+  padding: 320px;
+  background-color: rgb(32, 183, 60);
+}
+
+.home button {
+  width: 100%;
+  background-color: black;
+  border: none;
+  color: white;
+  font-size: 14px;
+  border-radius: 3px;
+  padding: 15px 30px;
+}
+
+.home button:hover {
+  background-color: rgb(58, 56, 56);
+}
+
+.header {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: black;
+}
